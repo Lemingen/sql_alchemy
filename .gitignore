@@ -1,0 +1,20 @@
+# Игнорировать файлы Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Игнорировать виртуальные окружения
+venv/
+.venv/
+env/
+.env/
+my_venv
+
+# Игнорировать файлы IDE и редакторов
+.idea/
+.vscode/
+
+# Игнорировать файлы для систем MacOS
+.DS_Store
